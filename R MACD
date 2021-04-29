@@ -1,0 +1,8 @@
+q()
+q()
+q()
+data(cars)
+str(cars)
+summary(cars)
+plot(cars)
+ls()
